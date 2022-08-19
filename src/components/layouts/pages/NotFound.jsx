@@ -11,9 +11,9 @@ function NotFound(){
                     <div className="col-md-12">
                         <div className="error-template">
                             <h1>Greška!</h1>
-                            <h2>ERROR 404</h2>
+                            <h2>404</h2>  
                             <div className="error-details">
-                                Kliknite na dugme ispod za vise detalja!
+                                Za više detalja klikni dugme ispod!
                             </div>
                             <div>
                                 <p>{txt}</p>
@@ -22,7 +22,7 @@ function NotFound(){
                             <br></br>
                             <div className="error-actions">
                                 <Link className="btn btn-outline-primary btn-lg" to="/">
-                                    Vrati se na početnu stranicu
+                                    Vrati se na početnu stranu
                                 </Link>
                             </div>
                         </div>

@@ -10,7 +10,7 @@ function Navbar(){
         <img src={logo} alt="logo" style={{width:'90px'}}></img>
     </Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-      <span>
+    <span>
         <i className="fas fa-bars" style= {{ color: '#000' }}></i>
       </span>
     </button>

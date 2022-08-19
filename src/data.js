@@ -50,4 +50,5 @@ export const postInfo = [
         title: 'Frizerski salon',
         img: '.././images/pranje.png'
     },
+    //dodati cenovnik?
 ];
